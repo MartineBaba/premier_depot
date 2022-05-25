@@ -1,7 +1,7 @@
 print("Hello"
 
 def test():
-    print("say hello")
-
+    print("Say hello")
+    print("hi")
 
 test
